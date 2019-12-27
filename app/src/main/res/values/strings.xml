@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="ADD">ADD</string>
+    <string name="UPDATE">UPDATE</string>
+    <string name="VIEW">VIEW</string>
+    <string name="DELETE">DELETE</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+    <string name="view">VIEW</string>
+    <string name="delete">DELETE</string>
+    <string name="select_date">Select Date</string>
+    <string name="next">NEXT</string>
+</resources>
